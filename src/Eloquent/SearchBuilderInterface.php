@@ -1,6 +1,6 @@
 <?php
 
-namespace Deviate\Shared\Eloquent;
+namespace Deviate\Search\Eloquent;
 
 use Deviate\Search\SearchContainerInterface;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
